@@ -1,6 +1,8 @@
 /*
 TODO:
 - Clean code.
+OPTIONAL:
+- Add option to run the test n times?
 */
 #include <stdio.h>
 #include <stdlib.h>
