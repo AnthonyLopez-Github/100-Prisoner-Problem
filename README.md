@@ -8,7 +8,7 @@ An implementation of the hundred prisoner problem.
 [Image here]
 
 ## Note:
-A text file called "test.txt" is generated if the Makefile is used. It contains the amount of times the prisoners failed and passed the test for the purposes of calculating a pass/fail ratio.
+A text file called "test.txt" is generated if the Makefile is used. It contains the amount of times the prisoners failed and passed the test for the purposes of calculating an average survival rate.
 
 ## Source(s):
 https://en.wikipedia.org/wiki/100_prisoners_problem
